@@ -1,0 +1,32 @@
+.fa-star {
+  margin-left: 0.9em;
+  font-size: 50px;
+	color: yellow
+}
+
+span {
+  display: inline-block;
+  margin: 0.5em;
+  text-align: center;
+  background: #ccc;
+  width: 60px;
+  border-radius: 50%;
+  cursor: pointer;
+	font-size: 40px
+}
+
+.selected {
+  background: #eee;
+  color: #ddd;
+  cursor: not-allowed;
+}
+
+.used {
+  background: #aaddaa;
+  color: #99bb99;
+  cursor: not-allowed;
+}
+
+h1 {
+	font-size: 60px;
+}
