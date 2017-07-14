@@ -1,6 +1,9 @@
+.title {
+	margin-top: 2%;
+}
 .fa-star {
   margin-left: 0.9em;
-  font-size: 50px;
+  font-size: 60px;
 	color: yellow
 }
 
@@ -29,4 +32,16 @@ span {
 
 h1 {
 	font-size: 60px;
+}
+
+.btn-font {
+	font-size: 25px;
+	width: 100px;
+	height: 59px;
+}
+
+.success {
+	font-size: 80px;
+	font-weight: 900;
+	color: #00e676;
 }
